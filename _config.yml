@@ -19,7 +19,7 @@ avatar: https://avatars0.githubusercontent.com/u/5517150?s=200&v=4
 footer-links:
   dribbble:
   email: r2-support@amc.nl
-  facebook: http://www.facebook.com/r2platform
+  facebook: r2platform
   flickr:
   github: antronerds/r2-blog
   instagram:
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: piet_molenaar
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
